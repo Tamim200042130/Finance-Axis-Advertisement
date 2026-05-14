@@ -1,0 +1,137 @@
+Terms and Conditions for FinanceAxis
+
+Last Updated: May 14, 2026
+
+Welcome to FinanceAxis, a personal finance management application developed by TStationBD
+. By downloading, accessing, or using FinanceAxis, you agree to be bound by these Terms and Conditions. Please read them carefully before using the application.
+
+1. Description of Service
+
+FinanceAxis is a personal finance management application designed to help users:
+
+Track income and expenses
+Manage budgets and financial accounts
+Analyze spending habits and financial health
+Synchronize data across devices
+Create backups using Google Drive
+
+The app may also provide AI-powered financial insights and analytics to assist users in understanding their financial activities.
+
+2. Account Types and Feature Limitations
+
+FinanceAxis provides both Free and Premium (Pro) service tiers.
+
+Free Plan
+
+Users on the Free Plan may have certain limitations, including but not limited to:
+
+Maximum of 10 transactions per day
+Maximum of 99 transactions per month
+Up to 5 budgets
+Up to 5 accounts
+Advertisements may be displayed within the app
+Pro Plan (Premium)
+
+The Pro Plan is a paid subscription that unlocks additional features, including:
+
+Unlimited transactions
+Unlimited budgets and accounts
+Advanced AI-powered insights
+Automatic Google Drive backups
+Ad-free experience
+Additional premium features introduced in future updates
+Rewarded Advertisements
+
+Free users may voluntarily watch rewarded advertisements to temporarily increase their daily transaction limit. Each rewarded advertisement may grant additional transaction capacity as defined within the app.
+
+3. Accounts, Data Storage, and Synchronization
+Cloud Synchronization
+
+If you sign in using Google Sign-In or email authentication, your financial data may be securely synchronized using Firebase services to enable multi-device access and data recovery.
+
+Google Drive Backup
+
+Google Drive Backup is available exclusively for Pro users.
+
+Backups are stored in the user’s personal Google Drive account
+Backup files are stored inside a folder named FinanceAxis_Backups
+FinanceAxis only accesses files created by the application and does not access unrelated files in your Google Drive account
+Guest Mode
+
+If you use FinanceAxis in Guest Mode:
+
+Your data is stored locally on your device only
+Uninstalling the app, clearing app data, or resetting your device may permanently erase your data
+FinanceAxis is not responsible for data loss caused by local device actions
+4. Subscriptions and Payments
+
+All payments and subscription management are handled exclusively through the Google Play Store
+ billing system.
+
+By purchasing a Pro subscription, you agree that:
+
+Subscriptions automatically renew unless cancelled before the renewal date
+Billing cycles and pricing are determined by the Google Play Store
+You may manage or cancel subscriptions through your Google Play account settings
+Refund requests are subject to Google Play policies
+5. Acceptable Use
+
+You agree to use FinanceAxis only for lawful purposes and in accordance with these Terms.
+
+You agree not to:
+
+Use the app for illegal, fraudulent, or unauthorized activities
+Attempt to bypass or manipulate app limitations or subscription systems
+Reverse engineer, decompile, or attempt to extract the source code of the application
+Interfere with the app’s servers, services, or security systems
+Use automated tools or exploits to abuse rewarded advertisement systems
+
+Violation of these terms may result in suspension or termination of access to the service.
+
+6. Privacy and Data Protection
+
+Your use of FinanceAxis is also governed by our Privacy Policy. By using the app, you consent to the collection, storage, and processing of information as described in the Privacy Policy.
+
+7. Disclaimer of Warranties
+
+FinanceAxis is intended solely as a personal finance tracking and management tool.
+
+The app does not provide professional financial, investment, legal, or tax advice
+AI-generated insights are informational only and may not always be accurate
+All services are provided on an “as is” and “as available” basis
+
+TStationBD does not guarantee that the app will always be uninterrupted, secure, or error-free.
+
+8. Limitation of Liability
+
+To the maximum extent permitted by applicable law, TStationBD shall not be liable for:
+
+Financial losses
+Data loss
+Indirect, incidental, or consequential damages
+Errors, inaccuracies, or interruptions in service
+Decisions made based on information provided by the app
+
+Users are solely responsible for reviewing and verifying their financial data.
+
+9. Intellectual Property
+
+All rights, trademarks, branding, application designs, source code, and related intellectual property associated with FinanceAxis remain the exclusive property of TStationBD.
+
+You may not copy, modify, distribute, sell, or reproduce any part of the application without prior written permission.
+
+10. Changes to These Terms
+
+We may update these Terms and Conditions from time to time.
+
+Updated versions will be posted within the app or on the official policy page. Continued use of FinanceAxis after changes become effective constitutes acceptance of the updated Terms.
+
+11. Termination
+
+We reserve the right to suspend or terminate access to FinanceAxis at any time, without prior notice, if users violate these Terms or misuse the service.
+
+12. Contact Us
+
+If you have any questions, concerns, or suggestions regarding these Terms and Conditions, please contact us at:
+
+Support Email: support.financeaxis@gmail.com
