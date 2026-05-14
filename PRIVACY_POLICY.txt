@@ -1,38 +1,39 @@
-Privacy Policy for FinanceAxis
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy | FinanceAxis</title>
+    <style>
+        body { background: #0f0f0f; color: #fff; font-family: 'Lato', sans-serif; padding: 100px 15%; line-height: 1.8; }
+        h1 { color: #FFD700; font-size: 2.5rem; margin-bottom: 30px; text-align: center; }
+        h2 { color: #FFD700; margin-top: 40px; font-size: 1.5rem; border-left: 4px solid #FFD700; padding-left: 15px; }
+        p, li { color: #ccc; margin-bottom: 15px; }
+        .back-btn { display: inline-block; margin-bottom: 30px; color: #FFD700; text-decoration: none; font-weight: 700; }
+        @media (max-width: 768px) { body { padding: 50px 10%; } }
+    </style>
+</head>
+<body>
+    <a href="index.html" class="back-btn">&larr; Back Home</a>
+    <h1>Privacy Policy</h1>
+    <p>Last updated: May 2024. FinanceAxis ("the App") is committed to protecting your privacy.</p>
+    
+    <h2>1. Data We Collect</h2>
+    <p>We collect financial data you manually input, including transactions, budget goals, and account balances. If you sign in, we collect your email address and profile name.</p>
+    
+    <h2>2. Third-Party Services</h2>
+    <p>We use the following services to provide functionality:</p>
+    <ul>
+        <li><strong>Firebase:</strong> For cloud synchronization and authentication.</li>
+        <li><strong>Google Drive API:</strong> To allow you to backup data to your own account. We only access files created by our App.</li>
+        <li><strong>AdMob:</strong> To display ads to free users.</li>
+        <li><strong>Google Play Billing:</strong> To process Pro subscriptions.</li>
+    </ul>
 
-Effective Date: October 26, 2023
+    <h2>3. Data Ownership</h2>
+    <p>Your financial data belongs to you. We do not sell or share your personal financial records with third parties.</p>
 
-1. Introduction
-FinanceAxis ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information when you use our mobile application.
-
-2. Information Collection and Use
-- Personal Data: We collect your name, email address, and profile picture via Google Sign-In for account creation and synchronization.
-- Financial Data: We store your transactions, accounts, and budget data in Google Firebase. This data is private and only accessible by you via your authenticated account.
-- Device Information: We collect basic device information (model, OS version) for bug reporting and analytics.
-
-3. Third-Party Services
-Our app uses third-party services that may collect information used to identify you:
-- Google Play Services
-- Google Firebase (Authentication & Database)
-- AdMob (Advertising)
-- Google Drive API (Backup features)
-
-4. Advertising
-We use AdMob to display advertisements to free users. These ads help us keep the basic version of the app free. AdMob may use device identifiers to show personalized ads. You can opt-out of personalized ads in your Android device settings.
-
-5. Data Retention and Deletion
-- Your data remains in our database as long as your account is active.
-- You can delete your transaction data within the app.
-- To permanently delete your account and all associated data, please contact us at support@financeaxis.com.
-
-6. Security
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable.
-
-7. Children's Privacy
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
-
-8. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-9. Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at support@financeaxis.com.
+    <h2>4. Contact</h2>
+    <p>If you have questions, contact us at <strong>support@tstationbd.com</strong>.</p>
+</body>
+</html>
